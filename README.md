@@ -129,7 +129,7 @@ Cai de paraquedas no mundo da programação e me encontrei. Fui a primeira aluna
       </td>
       <td width="25%" align="center">
         <span><strong>Bash</strong></span><br><br><br>
-        <img height="64px" src="https://camo.githubusercontent.com/d7e69f4e93357ab37b1044d862b1b94ea6c6a37288c6db814c477344b06ce262/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f32782f636f6e736f6c652e706e67">
+        <img height="64px" src="https://cdn.svgporn.com/logos/bash.svg">
       </td>
     </tr>
     <tr valign="top">
