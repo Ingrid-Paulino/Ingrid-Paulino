@@ -132,6 +132,12 @@ Cai de paraquedas no mundo da programação e me encontrei. Fui a primeira aluna
         <img height="64px" src="https://camo.githubusercontent.com/d7e69f4e93357ab37b1044d862b1b94ea6c6a37288c6db814c477344b06ce262/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f32782f636f6e736f6c652e706e67">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>GO</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/go.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr>
